@@ -24,7 +24,7 @@ export default {
     },
     computed: {
         message() {
-            return 'sorry，您没有权限'
+            return 'sorry，您没有权限啊'
         }
     }
 }
